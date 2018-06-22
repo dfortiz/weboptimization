@@ -11,7 +11,16 @@ Easy steps:
 * Merge the files for all zip files, on their corresponding folder (images, js, css)
 * Copy the script doReplace.sh to the root folder in the zip. Assing execution permission, and execute.
 
+## Example
 
+Copy the files and folder in this way:
+```
+drwxr-xr-x 2 root root 4096 jun 21 20:58 css/
+-rwxr-xr-x 1 root root  854 jun 21 21:01 doReplace.sh*
+drwxr-xr-x 8 root root 4096 jun 21 21:10 .git/
+drwxr-xr-x 2 root root 4096 jun 21 20:58 image/
+drwxr-xr-x 2 root root 4096 jun 21 20:58 js/
+```
 
 ## Authors
 
